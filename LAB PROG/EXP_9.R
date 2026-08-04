@@ -1,5 +1,0 @@
-v <- c(15, 8, 25, 40, 12)
-cat("Vector:\n")
-print(v)
-cat("Maximum =", max(v), "\n")
-cat("Minimum =", min(v))
