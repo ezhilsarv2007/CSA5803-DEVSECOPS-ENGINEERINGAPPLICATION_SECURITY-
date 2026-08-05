@@ -1,0 +1,5 @@
+a <- c(10, 20, 30, 40, 50)
+sum1 <- sum(a)
+avg <- mean(a)
+cat("Sum =", sum1)
+cat("\nAverage =", avg)
